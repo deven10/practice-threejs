@@ -8,9 +8,9 @@ function App() {
     <>
       <h2>Three JS Practice</h2>
 
-      <Katana />
+      {/* <Katana /> */}
       {/* <Damascus /> */}
-      {/* <Truck /> */}
+      <Truck />
     </>
   );
 }
